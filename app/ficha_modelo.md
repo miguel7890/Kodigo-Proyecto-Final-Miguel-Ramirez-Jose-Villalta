@@ -1,6 +1,6 @@
 # Ficha del modelo · Riesgo de mala reseña (Olist)
 
-**Equipo:** Ramirez Miguel y [Apellido2 Nombre2] · **Modelo:** XGBoost dentro de un pipeline de scikit-learn (`modelo_riesgo.joblib`) · **Umbral de alerta:** probabilidad ≥ 0.2678 (10% de pedidos más riesgosos)
+**Equipo:** Ramirez Miguel y Villalta Jose · **Modelo:** XGBoost dentro de un pipeline de scikit-learn (`modelo_riesgo.joblib`) · **Umbral de alerta:** probabilidad ≥ 0.2678 (10% de pedidos más riesgosos)
 
 ## 1. Para qué sirve y para qué NO debe usarse
 

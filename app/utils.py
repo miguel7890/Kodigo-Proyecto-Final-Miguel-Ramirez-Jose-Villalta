@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 DATA = Path(__file__).parent
-API_URL_DEFECTO = "https://SU-API.onrender.com"
+API_URL_DEFECTO = "https://kodigo-proyecto-final-miguel-ramirez.onrender.com"
 
 
 @st.cache_data
